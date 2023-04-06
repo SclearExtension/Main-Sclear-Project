@@ -1,2 +1,2 @@
 # Main-Sclear-Project
-The Sclear project
+More will be done soon
