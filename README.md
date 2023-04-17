@@ -1,2 +1,3 @@
 # Main-Sclear-Project
-More will be done soon
+This is the Sclear Project,
+it is not really working but that will be fixed today hopefully
